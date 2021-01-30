@@ -12,7 +12,7 @@ Horiseon aims to improve thier client's online presence through optimizing Socia
 * Ensured all links are functional
 * Comments added 
 
-![Screenshot of final page](images/finished-site)
+![Screenshot of Horiseon site](/images/finished-site.png)
 
 
-[GitHub Page](https://kellyjohnson364.github.io/horiseon-refactor/)
+[Horiseon's live site](https://kellyjohnson364.github.io/horiseon-refactor/)
