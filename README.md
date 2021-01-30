@@ -13,6 +13,6 @@ Horiseon aims to improve thier client's online presence through optimizing Socia
 * Comments added 
 
 
-![Screenshot 1 of site](Screenshot-1.png)
-![Screenshot 2 of site](Screenshot-2.png)
-![Screenshot 3 of site](Screenshot-3.png)
+![Screenshot 1 of site](screenshot-1.png)
+![Screenshot 2 of site](screenshot-2.png)
+![Screenshot 3 of site](screenshot-3.png)
