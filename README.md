@@ -2,7 +2,7 @@
 
 ## Accesibility and SEO
 
-Horiseon aims to improve thier client's online presence through optimizing Social Marketing, Online Reputation Management, and Search Engine Optimization.  This refactor of Horiseon's own website takes into account that very Search Engine optimization and the importance of the user accesibility toward helping in that goal.  Allowing those with disabilities full access to a websites not only ensures the best user experience, it also aids a search engine's assesment for that site.  This application was refactored in the following ways to optimize accesibility and functionality of both the websit and the source code:
+Horiseon aims to improve thier client's online presence through optimizing Social Marketing, Online Reputation Management, and Search Engine Optimization.  This refactor of Horiseon's own website takes into account that very Search Engine optimization and the importance of the user accesibility toward helping in that goal.  Allowing those with disabilities full access to a websites not only ensures the best user experience, it also aids a search engine's assesment for that site.  This application was refactored in the following ways to optimize accesibility and functionality of both the source code and the [live site](https://kellyjohnson364.github.io/horiseon-refactor/). 
 
 * HTML semantics utilized to better consolidation selectors and properties.
 * Alt attributes were added to all images and a title attribute was added to the background image link to allow access with a screen reader.
@@ -13,6 +13,6 @@ Horiseon aims to improve thier client's online presence through optimizing Socia
 * Comments added 
 
 
-![Screenshot](finished-site.png)
-
-[Horiseon's live site](https://kellyjohnson364.github.io/horiseon-refactor/)
+![Screenshot 1 of site](Screenshot-1.png)
+![Screenshot 2 of site](Screenshot-2.png)
+![Screenshot 3 of site](Screenshot-3.png)
