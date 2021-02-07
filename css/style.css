@@ -20,22 +20,21 @@ h1 {
     display: inline-block;
     font-size: 48px;
 }
-/* Sets the SEO (Search Engine Optimization) at a slightly different color*/
-.seo {
-    color: #d9dcd6;
-}
+
+
 /* Formats navigation links within header to the main sections of page*/
 nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    
 }
 /* Establishes position of links within nav bar*/
 li {
     display: inline-block;
     margin-left: 25px;
+    font-size: 40px;
 }
 /* Overrides default appearance of anchor tags*/
 a {
